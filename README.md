@@ -36,4 +36,6 @@ A lightweight and powerful **desktop application** for creators who need to **wa
 
 ## 📦 Installation
 
-1. Download the exe file and run it ! 
+1. Download the complete project
+2. extra the zip file
+3. double click on the image_water_marks.exe
