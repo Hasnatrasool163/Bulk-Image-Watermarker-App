@@ -30,10 +30,7 @@ A lightweight and powerful **desktop application** for creators who need to **wa
 ![add-border](https://github.com/user-attachments/assets/4b4f4be5-29bd-4025-822a-f8f3cd1b5f08)
 
 ## 🛠️ Tech Stack
-
 - **Python 3**
-- **Tkinter GUI**
-- **Pillow (PIL)** for image processing
 - **No third-party dependencies**
 - **20MB total app size**
 
